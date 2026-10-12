@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" role="img" aria-label="Food illustration">
+<defs>
+  <linearGradient id="bgec1879a0" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#3d352d"/><stop offset="1" stop-color="#241e1a"/>
+  </linearGradient>
+  <radialGradient id="glowec1879a0" cx="0.5" cy="0.42" r="0.75">
+    <stop offset="0" stop-color="#ffffff" stop-opacity="0.14"/>
+    <stop offset="0.6" stop-color="#ffffff" stop-opacity="0.04"/>
+    <stop offset="1" stop-color="#000000" stop-opacity="0.10"/>
+  </radialGradient>
+</defs>
+<rect width="800" height="600" fill="url(#bgec1879a0)"/>
+<rect width="800" height="600" fill="none"/><path d="M 80 480 L 80 220 A 90 90 0 0 1 260 220 L 260 480 Z" fill="#f4ecdf" fill-opacity="0.16"/>
+                 <path d="M 80 480 L 80 220 A 90 90 0 0 1 260 220 L 260 480 Z" fill="none" stroke="#d4a24e" stroke-opacity="0.5" stroke-width="3"/><circle cx="170" cy="290" r="60" fill="#d4a24e" fill-opacity="0.12"/><path d="M 310 480 L 310 220 A 90 90 0 0 1 490 220 L 490 480 Z" fill="#f4ecdf" fill-opacity="0.16"/>
+                 <path d="M 310 480 L 310 220 A 90 90 0 0 1 490 220 L 490 480 Z" fill="none" stroke="#d4a24e" stroke-opacity="0.5" stroke-width="3"/><circle cx="400" cy="290" r="60" fill="#d4a24e" fill-opacity="0.12"/><path d="M 540 480 L 540 220 A 90 90 0 0 1 720 220 L 720 480 Z" fill="#f4ecdf" fill-opacity="0.16"/>
+                 <path d="M 540 480 L 540 220 A 90 90 0 0 1 720 220 L 720 480 Z" fill="none" stroke="#d4a24e" stroke-opacity="0.5" stroke-width="3"/><circle cx="630" cy="290" r="60" fill="#d4a24e" fill-opacity="0.12"/><line x1="250" y1="0" x2="250" y2="120" stroke="#d4a24e" stroke-opacity="0.6" stroke-width="2"/>
+                 <path d="M 224 120 L 276 175 L 250 175 Z" fill="#c96f4a"/>
+                 <circle cx="250" cy="185" r="34" fill="#d4a24e" fill-opacity="0.25"/><line x1="550" y1="0" x2="550" y2="120" stroke="#d4a24e" stroke-opacity="0.6" stroke-width="2"/>
+                 <path d="M 524 120 L 576 175 L 550 175 Z" fill="#c96f4a"/>
+                 <circle cx="550" cy="185" r="34" fill="#d4a24e" fill-opacity="0.25"/><ellipse cx="400" cy="520" rx="150" ry="26" fill="#241e1a" fill-opacity="0.55"/><ellipse cx="400" cy="514" rx="150" ry="26" fill="#2e2822" fill-opacity="0.55"/><ellipse cx="400" cy="508" rx="70" ry="12" fill="#f7f2ea" fill-opacity="0.5"/>
+<rect width="800" height="600" fill="url(#glowec1879a0)"/>
+</svg>

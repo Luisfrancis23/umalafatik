@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 760" role="img" aria-label="Signature dish"><defs>
+       <linearGradient id="hbg" x1="0" y1="0" x2="0" y2="1">
+         <stop offset="0" stop-color="#3d352d"/><stop offset="1" stop-color="#241e1a"/>
+       </linearGradient>
+     </defs>
+     <rect width="600" height="760" fill="url(#hbg)"/>
+     <circle cx="300" cy="380" r="230" fill="#d4a24e" fill-opacity="0.08"/>
+     <circle cx="300" cy="380" r="180" fill="none" stroke="#d4a24e" stroke-opacity="0.35" stroke-width="2"/>
+     <circle cx="300" cy="380" r="150" fill="none" stroke="#c96f4a" stroke-opacity="0.25" stroke-width="1.5"/>
+     <ellipse cx="300" cy="500" rx="170" ry="26" fill="#000000" fill-opacity="0.3"/>
+     <ellipse cx="300" cy="420" rx="150" ry="105" fill="#f7f2ea"/>
+     <ellipse cx="300" cy="416" rx="112" ry="76" fill="#ece2cf"/>
+     <path d="M 210 410 A 90 62 0 0 1 390 410 Z" fill="#e0b25c"/>
+     <path d="M 232 406 A 68 44 0 0 1 368 406 Z" fill="#edd08a"/>
+     <circle cx="245" cy="372" r="9" fill="#7a8b5a"/>
+     <circle cx="355" cy="368" r="9" fill="#7a8b5a"/>
+     <circle cx="300" cy="352" r="11" fill="#b4443c"/>
+     <circle cx="272" cy="348" r="6" fill="#3a2e1e"/>
+     <circle cx="330" cy="346" r="6" fill="#3a2e1e"/>
+     <path d="M 280 330 q -12 -22 2 -38 q 10 -12 2 -24" fill="none" stroke="#ffffff" stroke-opacity="0.4" stroke-width="5" stroke-linecap="round"/>
+     <path d="M 318 336 q 12 -22 -2 -38 q -10 -12 -2 -24" fill="none" stroke="#ffffff" stroke-opacity="0.3" stroke-width="5" stroke-linecap="round"/>
+     <path d="M 230 470 q 70 40 140 0" fill="none" stroke="#d4a24e" stroke-opacity="0.7" stroke-width="4" stroke-dasharray="12 10"/></svg>

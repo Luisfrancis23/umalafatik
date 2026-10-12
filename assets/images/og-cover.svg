@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630">
+<defs>
+  <linearGradient id="og" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#2e2822"/><stop offset="1" stop-color="#1d1815"/>
+  </linearGradient>
+</defs>
+<rect width="1200" height="630" fill="url(#og)"/>
+<circle cx="180" cy="120" r="240" fill="none" stroke="#d4a24e" stroke-opacity="0.12" stroke-width="2"/>
+<circle cx="1050" cy="530" r="280" fill="none" stroke="#c96f4a" stroke-opacity="0.10" stroke-width="2"/>
+<circle cx="1020" cy="110" r="90" fill="#d4a24e" fill-opacity="0.07"/>
+<ellipse cx="420" cy="360" rx="190" ry="130" fill="#f7f2ea" fill-opacity="0.96"/>
+<ellipse cx="420" cy="355" rx="142" ry="95" fill="#ece2cf"/>
+<path d="M 310 350 A 110 76 0 0 1 530 350 Z" fill="#e0b25c"/>
+<path d="M 336 345 A 84 54 0 0 1 504 345 Z" fill="#edd08a"/>
+<circle cx="350" cy="312" r="11" fill="#7a8b5a"/>
+<circle cx="490" cy="308" r="11" fill="#7a8b5a"/>
+<circle cx="420" cy="292" r="13" fill="#b4443c"/>
+<text x="660" y="285" font-family="Georgia, serif" font-size="92" fill="#f7f2ea">Uma <tspan font-style="italic" fill="#d4a24e">Lafatik</tspan></text>
+<text x="664" y="345" font-family="Georgia, serif" font-style="italic" font-size="34" fill="#c96f4a">A Taste Worth Remembering</text>
+<line x1="664" y1="380" x2="1060" y2="380" stroke="#d4a24e" stroke-opacity="0.6" stroke-width="2"/>
+<text x="664" y="430" font-family="Jost, sans-serif" font-size="26" fill="#e9ddc9" fill-opacity="0.85">Exceptional food · Warm hospitality</text>
+<text x="664" y="470" font-family="Jost, sans-serif" font-size="26" fill="#e9ddc9" fill-opacity="0.85">A memorable dining experience</text>
+</svg>

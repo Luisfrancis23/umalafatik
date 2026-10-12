@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" role="img" aria-label="Food illustration">
+<defs>
+  <linearGradient id="bgb28b64dc" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#3d352d"/><stop offset="1" stop-color="#1d1815"/>
+  </linearGradient>
+  <radialGradient id="glowb28b64dc" cx="0.5" cy="0.42" r="0.75">
+    <stop offset="0" stop-color="#ffffff" stop-opacity="0.14"/>
+    <stop offset="0.6" stop-color="#ffffff" stop-opacity="0.04"/>
+    <stop offset="1" stop-color="#000000" stop-opacity="0.10"/>
+  </radialGradient>
+</defs>
+<rect width="800" height="600" fill="url(#bgb28b64dc)"/>
+<line x1="150" y1="0" x2="150" y2="90" stroke="#d4a24e" stroke-opacity="0.5" stroke-width="2"/>
+                 <circle cx="150" cy="90" r="26" fill="#d4a24e" fill-opacity="0.3"/>
+                 <circle cx="150" cy="90" r="40" fill="#d4a24e" fill-opacity="0.12"/><line x1="320" y1="0" x2="320" y2="130" stroke="#d4a24e" stroke-opacity="0.5" stroke-width="2"/>
+                 <circle cx="320" cy="130" r="26" fill="#d4a24e" fill-opacity="0.3"/>
+                 <circle cx="320" cy="130" r="40" fill="#d4a24e" fill-opacity="0.12"/><line x1="490" y1="0" x2="490" y2="90" stroke="#d4a24e" stroke-opacity="0.5" stroke-width="2"/>
+                 <circle cx="490" cy="90" r="26" fill="#d4a24e" fill-opacity="0.3"/>
+                 <circle cx="490" cy="90" r="40" fill="#d4a24e" fill-opacity="0.12"/><line x1="660" y1="0" x2="660" y2="130" stroke="#d4a24e" stroke-opacity="0.5" stroke-width="2"/>
+                 <circle cx="660" cy="130" r="26" fill="#d4a24e" fill-opacity="0.3"/>
+                 <circle cx="660" cy="130" r="40" fill="#d4a24e" fill-opacity="0.12"/><circle cx="60" cy="320" r="6" fill="#e8b49a" fill-opacity="0.12"/><circle cx="233" cy="417" r="13" fill="#e8b49a" fill-opacity="0.12"/><circle cx="406" cy="514" r="20" fill="#e8b49a" fill-opacity="0.12"/><circle cx="579" cy="391" r="9" fill="#e8b49a" fill-opacity="0.12"/><circle cx="72" cy="488" r="16" fill="#e8b49a" fill-opacity="0.12"/><circle cx="245" cy="365" r="23" fill="#e8b49a" fill-opacity="0.12"/><circle cx="418" cy="462" r="12" fill="#e8b49a" fill-opacity="0.12"/><circle cx="591" cy="339" r="19" fill="#e8b49a" fill-opacity="0.12"/><circle cx="84" cy="436" r="8" fill="#e8b49a" fill-opacity="0.12"/><circle cx="257" cy="533" r="15" fill="#e8b49a" fill-opacity="0.12"/><circle cx="430" cy="410" r="22" fill="#e8b49a" fill-opacity="0.12"/><circle cx="603" cy="507" r="11" fill="#e8b49a" fill-opacity="0.12"/><circle cx="96" cy="384" r="18" fill="#e8b49a" fill-opacity="0.12"/><circle cx="269" cy="481" r="7" fill="#e8b49a" fill-opacity="0.12"/><ellipse cx="240" cy="500" rx="110" ry="22" fill="#2e2822" fill-opacity="0.7"/>
+                 <ellipse cx="240" cy="494" rx="70" ry="14" fill="#f7f2ea" fill-opacity="0.35"/>
+                 <rect x="236" y="500" width="8" height="60" fill="#241e1a" fill-opacity="0.7"/><ellipse cx="560" cy="500" rx="110" ry="22" fill="#2e2822" fill-opacity="0.7"/>
+                 <ellipse cx="560" cy="494" rx="70" ry="14" fill="#f7f2ea" fill-opacity="0.35"/>
+                 <rect x="556" y="500" width="8" height="60" fill="#241e1a" fill-opacity="0.7"/>
+<rect width="800" height="600" fill="url(#glowb28b64dc)"/>
+</svg>

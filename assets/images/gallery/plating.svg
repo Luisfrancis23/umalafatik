@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" role="img" aria-label="Food illustration">
+<defs>
+  <linearGradient id="bg5c924eb3" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#3a332d"/><stop offset="1" stop-color="#241e1a"/>
+  </linearGradient>
+  <radialGradient id="glow5c924eb3" cx="0.5" cy="0.42" r="0.75">
+    <stop offset="0" stop-color="#ffffff" stop-opacity="0.14"/>
+    <stop offset="0.6" stop-color="#ffffff" stop-opacity="0.04"/>
+    <stop offset="1" stop-color="#000000" stop-opacity="0.10"/>
+  </radialGradient>
+</defs>
+<rect width="800" height="600" fill="url(#bg5c924eb3)"/>
+<ellipse cx="400" cy="310" rx="260" ry="190" fill="#f7f2ea"/>
+             <ellipse cx="400" cy="306" rx="200" ry="145" fill="#ece2cf"/>
+             <ellipse cx="400" cy="302" rx="150" ry="105" fill="#d9a05b"/>
+             <ellipse cx="400" cy="298" rx="110" ry="75" fill="#c98d4b"/><path d="M 280 260 q 60 -30 120 0" fill="none" stroke="#7a8b5a" stroke-opacity="0.85" stroke-width="5" stroke-linecap="round"/><path d="M 280 282 q 60 -36 120 0" fill="none" stroke="#7a8b5a" stroke-opacity="0.85" stroke-width="5" stroke-linecap="round"/><path d="M 280 304 q 60 -42 120 0" fill="none" stroke="#7a8b5a" stroke-opacity="0.85" stroke-width="5" stroke-linecap="round"/><path d="M 280 326 q 60 -48 120 0" fill="none" stroke="#7a8b5a" stroke-opacity="0.85" stroke-width="5" stroke-linecap="round"/><path d="M 280 348 q 60 -54 120 0" fill="none" stroke="#7a8b5a" stroke-opacity="0.85" stroke-width="5" stroke-linecap="round"/><circle cx="340" cy="240" r="8" fill="#b4443c" fill-opacity="1"/><circle cx="460" cy="238" r="8" fill="#b4443c" fill-opacity="1"/><circle cx="400" cy="225" r="9" fill="#d4a24e" fill-opacity="1"/><circle cx="300" cy="270" r="6" fill="#7a8b5a" fill-opacity="1"/><circle cx="500" cy="272" r="6" fill="#7a8b5a" fill-opacity="1"/><path d="M 250 330 q 150 60 300 0" fill="none" stroke="#c98d2a" stroke-opacity="0.6" stroke-width="4" stroke-dasharray="14 10"/>
+<rect width="800" height="600" fill="url(#glow5c924eb3)"/>
+</svg>

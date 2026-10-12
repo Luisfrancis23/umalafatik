@@ -1,0 +1,35 @@
+# Uma Lafatik — clean URLs
+<IfModule mod_rewrite.c>
+    RewriteEngine On
+    RewriteBase /umalafatik/
+
+    # Redirect direct *.php requests to the clean URL (browser-level only)
+    RewriteCond %{THE_REQUEST} \s/+(?:umalafatik/)?([^\s?#]*)\.php[\s?#] [NC]
+    RewriteRule ^ /umalafatik/%1 [R=301,L,NE]
+
+    # Internally map clean URLs to the matching .php file
+    RewriteCond %{REQUEST_FILENAME} !-f
+    RewriteCond %{REQUEST_FILENAME} !-d
+    RewriteCond %{REQUEST_FILENAME}.php -f
+    RewriteRule ^(.*)$ $1.php [L]
+</IfModule>
+
+# Security headers
+<IfModule mod_headers.c>
+    Header set X-Content-Type-Options "nosniff"
+    Header set X-Frame-Options "SAMEORIGIN"
+    Header set Referrer-Policy "strict-origin-when-cross-origin"
+</IfModule>
+
+# Protect sensitive paths
+<FilesMatch "\.(sql|log|ini)$">
+    Require all denied
+</FilesMatch>
+
+# Protect sensitive files
+<FilesMatch "\.(sql|log|ini)$">
+    Require all denied
+</FilesMatch>
+
+# Disable directory listing
+Options -Indexes -ExecCGI
